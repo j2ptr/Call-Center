@@ -12,4 +12,5 @@ Use the Hotkey (Alt + L) to copy highlighted text and send it to the application
 
 # To-Do
 Add proper HTTP response handling
+
 Make application minimize to System Tray
