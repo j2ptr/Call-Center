@@ -5,7 +5,7 @@ Send Calls to Barracuda Cudatel phone system through the native PBX API.
 This application can be used to send a phone number from your computer to your desk phone. It will accept phone numbers copy and pasted into the main field in any format and push it properly assuming the number is functional.
 
 # Configuration
-Download the file from link below, extract the .zip file to desktop (Or wherever). Double-click the “CallCenter.exe” application, Click "Settings", enter PBX IP as server, your extension as extension, and your voicemail password as password. From there you can test the application.
+Double-click the “CallCenter.exe” application once compiled. Click "Settings", enter PBX IP as server, your extension as extension, and your voicemail password as password. From there you can test the application.
 
 # Tips
 Use the Hotkey (Alt + L) to copy highlighted text and send it to the application while the application is running in the background.
